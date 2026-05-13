@@ -27,7 +27,7 @@ app.set("view engine", "ejs");
 // HOST URL
 // =========================
 
-var hostURL = "https://google-co-file.onrender.com";
+var hostURL = "https://vishwatracl-production.up.railway.app/";
 
 // =========================
 // START MENU
