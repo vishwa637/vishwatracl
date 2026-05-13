@@ -27,7 +27,7 @@ app.set("view engine", "ejs");
 // HOST URL
 // =========================
 
-var hostURL = "https://google-co-file-3i2t.onrender.com";
+var hostURL = "https://google-do.onrender.com";
 
 // =========================
 // START MENU
